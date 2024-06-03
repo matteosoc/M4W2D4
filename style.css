@@ -1,0 +1,17 @@
+.selected {
+    background-color: brown;
+}
+
+#cart {
+    background-color: blanchedalmond;
+    margin-bottom: 20px;
+}
+
+#searchSection {
+    background-color: beige;
+    margin-bottom: 20px;
+}
+
+#container {
+    background-color: whitesmoke;
+}
